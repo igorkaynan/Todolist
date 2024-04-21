@@ -1,2 +1,2 @@
 # Todolist
-Desenvolvimento em javascript de uma Lista de Tarefas.
+Desenvolvimento em Javascript de uma lista de tarefas.
